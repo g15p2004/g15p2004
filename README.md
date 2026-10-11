@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://gpportfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6EE7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
-  <a href="www.linkedin.com/in/gowri-prince-88231b342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/gowri-prince-88231b342?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:gowriprincemarottickal2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -17,7 +17,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering** (S7) at **KTU**, 2023–2027
 - 📊 Hands-on experience in **Data Analytics** and **Machine Learning** through internships and academic projects
 - 🤖 Passionate about leveraging **AI and data-driven solutions** to solve real-world problems
-- 🌱 Currently exploring computer vision, thermal imaging and autonomous navigation through drone-based projects
+- 🌱 Currently exploring computer vision, thermal imaging and semi-autonomous navigation through drone-based projects
 - 🗣️ Languages: English (Fluent), Malayalam (Fluent)
 
 ### 🛠️ Skills
@@ -37,7 +37,7 @@
 
 | Project | Description |
 |---|---|
-| 🛸 **Intelligent Drone Platform for Solar Inspection & Smart Agriculture** *(Team of 4)* | Modular, AI-powered drone platform combining Computer Vision, Thermal Imaging and Autonomous Navigation. Detects solar panel defects (cracks, dust, thermal hotspots) and builds an Agricultural Digital Twin for farm mapping and decision support, with a centralized dashboard. |
+| 🛸 **Intelligent Drone Platform for Solar Inspection & Smart Agriculture** *(Team of 4)* | Modular, AI-powered drone platform combining Computer Vision, Thermal Imaging and Semi-Autonomous Navigation. Detects solar panel defects (cracks, dust, thermal hotspots) and builds an Agricultural Digital Twin for farm mapping and decision support, with a centralized dashboard. |
 | 🌾 **CropSense Pro** *(Team of 4 · 3 months)* | Web-based smart agriculture platform for real-time crop monitoring, with image-based disease detection, environmental analysis, fertilizer alerts, harvest notifications and multilingual support. |
 | 🧪 **Analysis of Chemical Components** | Data analytics project built under professional mentorship during the MedTourEasy traineeship. |
 

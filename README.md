@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/"><img src="https://img.shields.io/badge/Portfolio-6EE7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gpportfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6EE7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
+  <a href="www.linkedin.com/in/gowri-prince-88231b342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:gowriprincemarottickal2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 

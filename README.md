@@ -59,13 +59,5 @@
 
 Assistant Volunteer Secretary (NSS) · Program Head Coordinator, Thandava College Arts Fest · Head Coordinator, Tourism Club MBCCET · Content Lead, Mulearn MBCCET · Media Team Member, MBC Media · Volunteer, INITEXPO
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?g15p2004=g15p2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g15p2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
-
----
 
 <p align="center"><i>Open to internships and collaborations in Data Analytics, ML and AI. Let's connect! ✨</i></p>

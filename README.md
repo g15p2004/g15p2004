@@ -62,7 +62,7 @@ Assistant Volunteer Secretary (NSS) · Program Head Coordinator, Thandava Colleg
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=g15p2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?g15p2004=g15p2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g15p2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 

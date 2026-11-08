@@ -55,6 +55,24 @@
 - NASA Space Apps Challenge Participant (2023, 2024)
 - Inter Disciplinary International Conference (IDIC 2.0) 2026
 
+
+
+### GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g15p2004&show_icons=true&theme=tokyonight&hide_border=true)
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g15p2004&layout=compact&theme=tokyonight&hide_border=true)
+
+### GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=g15p2004&theme=tokyonight&hide_border=true)
+
+### Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=g15p2004&color=blueviolet&style=flat)
+
 ### 🤝 Beyond Code
 
 Assistant Volunteer Secretary (NSS) · Program Head Coordinator, Thandava College Arts Fest · Head Coordinator, Tourism Club MBCCET · Content Lead, Mulearn MBCCET · Media Team Member, MBC Media · Volunteer, INITEXPO
